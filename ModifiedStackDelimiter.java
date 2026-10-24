@@ -26,9 +26,7 @@ public class StackDelimiter {
 
         boolean valid = true;
         String reason = "";
-
-        
-        System.out.println("Input: " + s);
+       
         System.out.println();
       
         for (int i = 0; i < s.length(); i++) {

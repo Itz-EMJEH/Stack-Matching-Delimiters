@@ -8,7 +8,8 @@ package stackdelimiter;
    Version: 1.0
    [Acknowledgements: Coding Simplified
                       https://runestone.academy/ns/books/published/javads/basic-ds_simple-balanced-parentheses.html  
-                      https://docs.oracle.com/en/java/javase/26/docs/api/java.base/java/util/Stack.html]
+                      https://docs.oracle.com/en/java/javase/26/docs/api/java.base/java/util/Stack.html
+                      Claude Snonnet 5.5 (Anthropic) - prompt: Draft me a simple code based on the activity.]
 
 */
 import java.util.Scanner;
